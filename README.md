@@ -1,4 +1,5 @@
 # arch_2022_m
+this pet repo abvout CA for traing about GitHub# arch_2022_m
 
 this pet repo abvout CA for traing about GitHub and programm languages.
 
